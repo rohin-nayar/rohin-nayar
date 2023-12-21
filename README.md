@@ -1,6 +1,5 @@
-[![MasterHead](file:///C:/Users/rohin/Downloads/github-header-image.png)]
-<h1 align="center">Hi 👋, I'm Rohin Nayar</h1>
-<h3 align="center">Robotics & Machine Learning Engineer </h3>
+![MasterHead](https://github.com/rohin-nayar/rohin-nayar/assets/62601714/c342238a-51db-4c2d-a760-8fdc433418d1)
+<h3 align="center">Aerospace Engineering | Robotics | Machine Learning </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Tensorflow**
