@@ -1,14 +1,12 @@
 ### Hey, I'm Rohin 👋
 
-I'm a 21-year-old robotics engineer based in the UK and I'm passionate about robotic systems.
-
-- 🌱 I’m currently learning **Data Structures & Algorithms and Web Development**
+- 🌱 I’m currently mastering **Data Structures & Algorithms**
   
 - 📖 I'm studying **MEng Aerospace Engineering at Imperial College London**
   
-- 🚀 Currently doing an industrial placement at **Airbus Defence & Space in the Advanced Concepts & Robotics Department**
+- 🚀 I'm currently doing an industrial placement at **Airbus Defence & Space in the Advanced Concepts & Robotics Department**
   
-- 📊 Interested in **tinkering with Robotics, ROS and building applications as I learn fullstack development**
+- 📊 Interested in **machine learning, quantitative finance and finacial modeling**
 
 ## 📦 Toolbox
 
