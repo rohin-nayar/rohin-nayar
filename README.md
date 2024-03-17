@@ -6,7 +6,7 @@
   
 - 🚀 I'm currently doing an industrial placement at **Airbus Defence & Space in the Advanced Concepts & Robotics Department**
   
-- 📊 Interested in **machine learning, quantitative finance and finacial modeling**
+- 📊 Interested in **machine learning, quantitative finance and financial modeling**
 
 ## 📦 Toolbox
 
