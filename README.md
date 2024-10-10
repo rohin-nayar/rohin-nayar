@@ -2,9 +2,9 @@
   
 - 📖 I'm studying **MEng Aerospace Engineering at Imperial College London**
   
-- 🚀 I'm currently doing an industrial placement as a Software Engineer at **Airbus Defence & Space in the Advanced Concepts & Robotics Department**
+- 🚀 I'm currently doing my final year thesis on applications of SINDy reinforcement learning
   
-- 📊 Interested in **machine learning, quantitative finance and financial modeling**
+- 📊 Interested in **machine learning, quantitative finance and data science**
 
 ## 📦 Toolbox
 
