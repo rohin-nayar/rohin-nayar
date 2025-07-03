@@ -4,7 +4,7 @@
   
 - 🚀 Completed my thesis on Hypernetworks in Deep Reinforcement Learning for Complex Adaptive Systems Control
   
-- 📊 Interested in **machine learning, quantitative finance and data science**
+- 📊 Currently working on a macroeconomics dashboard for trading and investment management
 
 ## 📦 Toolbox
 
