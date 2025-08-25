@@ -1,10 +1,8 @@
 ### Hello, I'm Rohin 👋
   
-- 📖 I have recently completed my studies, **MEng Aerospace Engineering at Imperial College London**
+- 📖 I'm an Imperial Graduate -  **MEng Aerospace Engineering with a Year in Industry**
   
 - 🚀 Completed my thesis on Hypernetworks in Deep Reinforcement Learning for Complex Adaptive Systems Control
-  
-- 📊 Currently working on a macroeconomics dashboard for trading and investment management
 
 ## 📦 Toolbox
 
