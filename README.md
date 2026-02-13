@@ -1,7 +1,5 @@
 # Hello, I'm Rohin!  
 
----
-
 ## Bio
 
 Graduate of **Imperial College London (MEng Aerospace Engineering)** and former Software Engineer in the Advanced Concepts and Robotics department at **Airbus Defence and Space**.
