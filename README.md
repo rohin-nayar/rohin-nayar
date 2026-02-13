@@ -1,19 +1,12 @@
 # Hello, I'm Rohin!  
 
-Graduate Aerospace Engineer  
-
 ---
 
-## Education
+## Bio
 
-**Imperial College London**  
-MEng Aerospace Engineering  
+Graduate of **Imperial College London (MEng Aerospace Engineering)** and former Software Engineer in the Advanced Concepts and Robotics department at **Airbus Defence and Space**.
 
----
-
-I build high-performance systems at the intersection of machine learning, control, and scalable computation.
-
-This GitHub showcases selected projects focused on performance, architecture, and applied modelling.
+My work centres on building high-performance systems at the intersection of machine learning, control, and scalable computation, with experience spanning robotics, distributed data systems, and GPU-accelerated simulation.
 
 ---
 
@@ -64,3 +57,14 @@ Kafka-based streaming architectures
 Event-driven design  
 API integration  
 Telemetry ingestion over TCP/UDP  
+
+---
+
+## Engineering Principles
+
+- Measure before optimising  
+- Design for scalability from the outset  
+- Separate domain logic from parallel implementation  
+- Prefer clarity over premature abstraction  
+- Make performance explicit and reproducible  
+
